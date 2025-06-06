@@ -33,7 +33,7 @@ Achieved a good fit on the dataset with a reasonable error margin. The model sho
 
 ## 📁 Files
 - `task-1.py`: Main notebook
-- `test.csv`: Sample dataset (if not provided, use a dummy dataset or fetch from Kaggle)
+- `test.csv`,`train.csv`: Sample dataset (if not provided, use a dummy dataset or fetch from Kaggle)
 - `README.md`: Project description
 
 ## ✅ Status
