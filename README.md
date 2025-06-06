@@ -28,12 +28,12 @@ Achieved a good fit on the dataset with a reasonable error margin. The model sho
 
 ## 🖥️ How to Run
 1. Clone the repository  
-2. Open `task1.py` in Jupyter Notebook or Google Colab  
+2. Open `task-1.py` in Jupyter Notebook or Google Colab  
 3. Run all cells after uploading the dataset
 
 ## 📁 Files
-- `task1.py`: Main notebook
-- `dataset.csv`: Sample dataset (if not provided, use a dummy dataset or fetch from Kaggle)
+- `task-1.py`: Main notebook
+- `test.csv`: Sample dataset (if not provided, use a dummy dataset or fetch from Kaggle)
 - `README.md`: Project description
 
 ## ✅ Status
